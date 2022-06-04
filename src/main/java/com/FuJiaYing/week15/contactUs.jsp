@@ -163,4 +163,4 @@
     
     initMap();
 </script>
-<%@include file="WEB-INF/views/_footer.jsp" %>
+<%@include file="WEB-INF/view/footer.jsp" %>
